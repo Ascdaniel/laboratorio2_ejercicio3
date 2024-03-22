@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1584205420 source:c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\main.cpp
+	<iostream>
+
+1711032906 source:c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\src\cliente.cpp
+	"Cliente.h"
+	"string"
+
+1711032239 c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\include\cliente.h
+	"string"
+
+1711032935 source:c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\src\fecha.cpp
+	"Fecha.h"
+	<string.h>
+
+1711033077 c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\include\fecha.h
+	"string"
+	<iostream>
+
+1711032979 source:c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\src\pago.cpp
+	"Pago.h"
+	"Fecha.h"
+	<string.h>
+
+1711032748 c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\include\pago.h
+	"string"
+	"Fecha.h"
+
+1711033492 source:c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	<stdlib.h>
+	<iostream>
+
+1711033278 c:\josue\prueba\programasion2\code blocks\laboratori2ejercicio3\include\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+	<stdlib.h>
+	<iostream>
+
+1711137179 source:c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\src\cliente.cpp
+	"Cliente.h"
+	"string"
+
+1711137178 c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\include\cliente.h
+	"string"
+
+1711137179 source:c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\src\fecha.cpp
+	"Fecha.h"
+	<string.h>
+
+1711137178 c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\include\fecha.h
+	"string"
+	<iostream>
+
+1711137179 source:c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\src\pago.cpp
+	"Pago.h"
+	"Fecha.h"
+	<string.h>
+
+1711137178 c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\include\pago.h
+	"string"
+	"Fecha.h"
+
+1711137179 source:c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	<stdlib.h>
+	<iostream>
+
+1711137178 c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\include\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+	<stdlib.h>
+	<iostream>
+
+1711137844 source:c:\users\mineducyt\documents\guias de laboratorio de programacion ii\laboratori2ejercicio3\laboratori2ejercicio3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Cliente.h"
+	"Prestamo.h"
+	"Fecha.h"
+	"Pago.h"
+
+1711140553 source:c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Cliente.h"
+	"Prestamo.h"
+	"Fecha.h"
+	"Pago.h"
+
+1711137178 c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\include\cliente.h
+	"string"
+
+1711137178 c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\include\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+	<stdlib.h>
+	<iostream>
+
+1711137178 c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\include\pago.h
+	"string"
+	"Fecha.h"
+
+1711137178 c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\include\fecha.h
+	"string"
+	<iostream>
+
+1711137179 source:c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\src\cliente.cpp
+	"Cliente.h"
+	"string"
+
+1711137179 source:c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\src\fecha.cpp
+	"Fecha.h"
+	<string.h>
+
+1711137179 source:c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\src\pago.cpp
+	"Pago.h"
+	"Fecha.h"
+	<string.h>
+
+1711137179 source:c:\users\mineducyt\documents\programacion 2\laboratori2ejercicio3\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	<stdlib.h>
+	<iostream>
+
